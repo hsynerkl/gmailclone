@@ -51,15 +51,15 @@ const EmailList = () => {
                     time="10pm"
                 />
                 <EmailRow
-                    title="Linkedin"
-                    subject="Check out my other projects"
+                    title="LinkedIn"
+                    subject="My linkedin account                    "
                     description="linkedin.com/in/huseyinerkal"
                     time="10pm"
                 />
                 <EmailRow
                     title="Instagram"
-                    subject="HEY"
-                    description="contact me"
+                    subject="Heyyyyyy"
+                    description="contacts me"
                     time="10pm"
                 />
             </div>
